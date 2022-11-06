@@ -1,0 +1,10 @@
+{
+  "name": "react-id-input",
+  "version": "0.0.1",
+  "description": "React input component with character animation support",
+  "main": "index.js",
+  "repository": "https://github.com/simonnagl/react-id-input.git",
+  "author": "Simon Martin <simon.martin@mein.gmx>",
+  "license": "MIT",
+  "private": false
+}
